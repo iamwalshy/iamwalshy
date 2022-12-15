@@ -33,14 +33,11 @@ iamwalshy@github
 ### 👨‍💻 Programming Languages
 
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Aphp"><img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    
 
 ### 🧰 Frameworks and Libraries
 
@@ -51,7 +48,6 @@ iamwalshy@github
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
 
 </p>
@@ -61,9 +57,7 @@ iamwalshy@github
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
-    <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
@@ -84,24 +78,26 @@ iamwalshy@github
 
 ### 👨🏽‍💻 Workspace
 <p>
-    <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
+    <a href="#"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+    <a href="#"><img alt="Blog"
+    src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
 
 
 ## GitHub Stats
 
 
-|                                                                     Vishal's Stats                                                                     |
+|                                                                     Walshy's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=I-am-vishalmaurya&theme=react-dark&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&theme=algolia)              | 
+| ![Walshy's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=iamwalshy&theme=react-dark&hide_border=true&area=true) |
+| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=iamwalshy&show_icons=true&theme=algolia)              | 
 | ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=I-am-vishalmaurya&theme=algolia)                    | 
     
-
+<!---
 |                                                                                                      Vishal's Stars                                                                                                       |                                                           Top Languages                                                           |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=I-am-vishalmaurya&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&langs_count=8&theme=algolia&layout=compact) |
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=iamwalshy&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamwalshy&langs_count=8&theme=algolia&layout=compact) |-->
 
 
 
@@ -112,9 +108,8 @@ iamwalshy@github
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:vishalmaurya3112@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="iamwalshy@protonmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
 
   </td>
   <td width="50%" valign="top">
@@ -131,8 +126,8 @@ You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw"
 </table>
 
 ------
-Credits: [I-am-vishalmaurya](https://github.com/I-am-vishalmaurya)
-Last Edited On: 18/04/2022
+Credits: [iamwalshy](https://github.com/iamwalshy)
+Last Edited On: 15/12/2022
 
 
 
