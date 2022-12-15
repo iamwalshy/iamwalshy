@@ -28,7 +28,8 @@ iamwalshy@github
 <hr>
 
 
-## 🛠️ My Favorite Tools
+## 🛠️ My Gaming Setup/Tools
+    To Be Continued...
 
 ### 👨‍💻 Programming Languages
 
