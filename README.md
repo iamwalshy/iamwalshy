@@ -14,7 +14,7 @@ Hi, iamwalshy!
 <hr>
 
 ```
-I-am-vishalmaurya@github
+iamwalshy@github
 -------------------------
 💻 I am a self taught Full Stack Python Developer and a Machine Learning Developer
 📝 I have a strong interest in Data Science and Artificial Intelligence
